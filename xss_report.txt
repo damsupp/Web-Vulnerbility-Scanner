@@ -1,0 +1,5 @@
+=========================================
+        REFLECTED XSS SCAN REPORT        
+=========================================
+
+No vulnerabilities found. Good sanitization detected!
